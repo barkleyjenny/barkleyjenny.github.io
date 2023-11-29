@@ -1,7 +1,7 @@
 ---
 layout: home
 title: ''
-permalink: /
+permalink: 
 ---
 
 #Let's build something great!
