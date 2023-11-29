@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+#Leadership
+Barkley is an experienced operator with a singular conviction: anything is possible.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+#The approach:
+**Data:** clear metrics unite teams and lead to faster and better decision making. Data is also a great negotiator–a storyteller that brings the biggest partners to the table.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+**Partners:** developing strategic partnerships with suppliers and manufacturers whose interests align with a brand’s core identity. This means the right partners with the right processes to create long term value.
 
-
-[jekyll-organization]: https://github.com/jekyll
+**Transparency:** great brands do things differently. Let’s show our people how, and let’s start that story at the farm, the forest, the fishery.
