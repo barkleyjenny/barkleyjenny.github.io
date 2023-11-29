@@ -1,7 +1,8 @@
 ---
 layout: home
-title:  "Let's build something great!"
+title:  "Home"
 date:   ''
-categories: home
+categories: 'test-x'
 ---
+
 #Let's build something great!
