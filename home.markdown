@@ -1,8 +1,7 @@
 ---
 layout: home
-title:  "Home"
-date:   ''
-categories: 'test-x'
+title: ''
+permalink: /
 ---
 
 #Let's build something great!
