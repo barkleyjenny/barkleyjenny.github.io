@@ -4,4 +4,4 @@
 
 layout: home
 ---
-cover_page: "Splashdown baby!"
+# Let's build something great!
