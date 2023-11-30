@@ -4,3 +4,4 @@
 
 layout: home
 ---
+cover_page: "Splashdown baby!"
