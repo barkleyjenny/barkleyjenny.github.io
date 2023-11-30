@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-#Leadership
+# Leadership
 
 Barkley is an experienced operator with a singular conviction: anything is possible.
 
-#The approach
+# The approach
 
 **Data:** clear metrics unite teams and lead to faster and better decision making. Data is also a great negotiator–a storyteller that brings the biggest partners to the table.
 

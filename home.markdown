@@ -1,7 +1,7 @@
 ---
-layout: home
-title: 'Home'
-permalink: /home/
+# layout: home
+# title: 'Home'
+# permalink: /home/
 ---
 
-#Let's build something great!
+<!-- #Let's build something great! -->

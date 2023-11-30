@@ -4,10 +4,10 @@ title: Resume
 permalink: /resume/
 ---
 
-#Experience
+# Experience
 
 - experience 1: date to date
 
-#Education
+# Education
 
 Middlebury College
