@@ -3,5 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: splashpage
 ---
-# Let's build something great!
+## Let's build something great!
