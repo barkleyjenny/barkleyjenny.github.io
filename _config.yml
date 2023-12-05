@@ -29,7 +29,8 @@ github_username:  barkleyjenny
 linkedin_username: barkleyjenny
 
 # Build settings
-theme: minima
+# theme: minima
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 
