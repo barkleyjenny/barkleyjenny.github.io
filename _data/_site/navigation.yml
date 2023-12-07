@@ -1,0 +1,13 @@
+# main links
+main:
+  - title: "about"
+    url: /about/
+  - title: "resume"
+    url: /resume/
+  - title: "blog"
+    url: /blog/
+    description: "this is where I talk about things"
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/

@@ -1,0 +1,14 @@
+Barkley Jenny:
+  name        : "Barkley Jenny"
+  bio         : ""
+  avatar      : "/assets/images/barkley-headshot.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:barkley@barkleyjenny.com"
+    - label: "LinkedIn"
+      icon: "fas fa-fw fa-link"
+      url: "https://linkedin.com/barkleyjenny"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/extravagantman"
