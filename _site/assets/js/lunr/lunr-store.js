@@ -1,4 +1,7 @@
 var store = [,{
+    "title": "About",
+    "excerpt":"here we go!   This is my title  ","url": "http://localhost:4000/about/"
+  },{
     "title": null,
     "excerpt":"","url": "http://localhost:4000/"
   },{
