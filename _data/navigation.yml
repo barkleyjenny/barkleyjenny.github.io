@@ -1,9 +1,9 @@
 # main links
 main:
-  - title: "about"
-    url: /about/
-  - title: "resume"
-    url: /resume/
+  # - title: "about"
+  #   url: /about/
+  - title: "services"
+    url: /services/
   - title: "blog"
     url: /blog/
     description: "this is where I talk about things"

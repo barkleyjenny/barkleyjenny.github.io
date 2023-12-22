@@ -14,60 +14,66 @@ header:
 # excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
 intro: 
   # - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
-  - title: 'What great supply chains look like:'
-  - excerpt: 
-      1. Economic Value (more for less)
-      2. Unique experiences (new, novel and personal)
-      3. An empathy building mission (our common cause)
+  - title: 'Helping brands of the future nail 3 core pillars:'
+  # - excerpt: 
+  #     1. Economic Value (more for less)
+  #     2. Unique experiences (new, novel and personal)
+  #     3. An empathy building mission (our common cause)
       
 feature_row:
-  # - image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    # image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "placeholder image 1"
-    title: "Great products deliver value"
+  - image_path: /assets/images/grassland-mtn-sky.jpeg
+    image_caption: "image"
+    alt: "alt image"
+    title: "Data Infrastructure"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  # - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Great products deliver unique experiences"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  # - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Great products unite people around a common cause"
+    url: /services/
+  - image_path: 
+    alt: ""
+    title: "Opportunistic Sourcing"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: /services/
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: 
+    title: "Systems Culture"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: /services/
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 feature_row2:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "#test-link"
+  - image_path: /assets/images/grassland-mtn-sky.jpeg
+    alt: "alt image"
+    title: 'Data Infrastructure'
+    excerpt: 'This is some sample content that goes here with **Markdown** formatting.'
     btn_label: "Read More"
     btn_class: "btn--primary"
+    url: /services/
 feature_row3:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-    url: "#test-link"
+  - image_path: /assets/images/grassland-mtn-sky.jpeg
+    alt: "alt image"
+    title: "Opportunistic Sourcing"
+    excerpt: 'This is some sample content that goes here with **Markdown** formatting.'
+    url: /services/
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row4:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
+  - image_path: /assets/images/grassland-mtn-sky.jpeg
+    alt: "alt image"    
+    title: "Systems Culture"
+    excerpt: 'This is some sample content that goes here with **Markdown** formatting.'
+    url: /services/
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
 
-<!-- {% include feature_row id="intro" type="left" %} -->
+{% include feature_row id="intro" type="left" %}
 
-{% include feature_row %}
+<!-- {% include feature_row %} -->
 
-<!-- {% include feature_row id="feature_row2" type="left" %}
+{% include feature_row id="feature_row2" type="left" %}
 
 {% include feature_row id="feature_row3" type="right" %}
 
-{% include feature_row id="feature_row4" type="center" %} -->
+{% include feature_row id="feature_row4" type="left" %}
