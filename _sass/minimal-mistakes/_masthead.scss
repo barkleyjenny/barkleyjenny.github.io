@@ -84,7 +84,8 @@
 
 .masthead__menu-item {
   display: block;
-  list-style-type: none;
+  list-style-type: 'none';
+  font-family: 'Permanent Marker', cursive;
   white-space: nowrap;
 
   &--lg {
