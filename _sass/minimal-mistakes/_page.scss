@@ -83,7 +83,7 @@ body {
   }
 }
 
-.page__title.marker-title {
+.marker-title {
   font-family: 'Permanent Marker', cursive;
   margin-top: 0;
   line-height: 1;
@@ -97,7 +97,6 @@ body {
     margin-top: -0.5em;
   }
 }
-
 
 .page__lead {
   font-family: $global-font-family;
