@@ -28,8 +28,8 @@ feature_row2:
     alt: ''
     title: "Move Quickly"
     excerpt: 
-      - 'Identify the metric that matters most'
-      - 'Automate reporting to create real-time dashboards that focus teams and drive progress'
+      - "Identify the metric that matters most"
+      - "Automate reporting to create real-time dashboards that focus teams and drive progress"
 
     # btn_label: "Read More"
     # btn_class: "btn--primary"
