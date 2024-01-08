@@ -66,11 +66,8 @@ Create demand forecasts and supply plans that expedite the cash cycle and minimi
 
 {% include feature_row id="feature_row1" type="right" %}
 
-{% capture marker_title %}
-  title: "Here's how I can help"
-  marker_title: true
-{% endcapture %}
-{{ marker_title | markdownify | replace: 'title:', '.page__title.marker-title:' }}
+<!-- Apply the marker-title class directly to the title -->
+<h1 class="page__title marker-title">Here's how I can help</h1>
 
 {% include feature_row id="feature_row2" type="left" %}
 
