@@ -14,7 +14,7 @@ header:
 excerpt: ''
 
 feature_row1:
-  - image_path: ''
+  - image_path: 'assets/images/barkley-headshot.jpg'
     alt: ''
     title: "Hello, I’m Barkley "
     excerpt: "I am an operations consultant and I help leaders build businesses that change how people consume. I have launched 100+ products for mission-driven brands at every scale–from pre-market startups to large multinationals. A lesson I hold above all else: difference matters. To be unique, businesses need to operate differently, to deliver real economic value, and they need to tell the story."
@@ -24,7 +24,7 @@ feature_row1:
     # url: /services/
 
 feature_row2:
-  - image_path: ''
+  - image_path: 'assets/images/speed.svg'
     alt: ''
     title: "Move Quickly"
     excerpt: 
@@ -46,7 +46,7 @@ feature_row3:
     # btn_label: "Read More"
     # btn_class: "btn--primary"
 feature_row4:
-  - image_path: ''
+  - image_path: 'assets/images/sourcing-network.svg'
     alt: ''   
     title: 'Develop excellent partnerships'
     excerpt: 'Use data-driven storytelling to negotiate the pricing, terms, and service levels that will make consumers think differently /n Source partners who value a brand’s core mission and will embrace change'
@@ -54,7 +54,7 @@ feature_row4:
     # btn_label: "Read More"
     # btn_class: "btn--primary"
 feature_row6:
-  - image_path: ''
+  - image_path: 'assets/images/value-growth.svg'
     alt: ''   
     title: 'Build lasting value'
     excerpt: 'Build loyalty through excellent product quality
