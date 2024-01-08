@@ -35,7 +35,7 @@ feature_row2:
     # btn_class: "btn--primary"
     # url: /services/
 feature_row3:
-  - image_path: ''
+  - image_path: 'assets/images/great-stories.svg'
     alt: ''
     title: "Create products that tell a story"
     excerpt: 
