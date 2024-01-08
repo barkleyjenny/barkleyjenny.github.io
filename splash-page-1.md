@@ -66,7 +66,7 @@ Create demand forecasts and supply plans that expedite the cash cycle and minimi
 
 {% include feature_row id="feature_row1" type="right" %}
 
-__Here's how we get there:__
+title: Here's how I can help:
 
 
 
