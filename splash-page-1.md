@@ -63,7 +63,6 @@ feature_row6:
     - Build loyalty through excellent product quality
     - Reduce costs of goods sold through strategic sourcing and deeper partnerships
     - Create demand forecasts and supply plans that expedite the cash cycle and minimize obsolescence and chargebacks
-
     
 ---
 
@@ -79,4 +78,4 @@ feature_row6:
 
 {% include feature_row id="feature_row4" type="left" %}
 
-{% include feature_row id="feature_row6" type="right" %}
+{% include feature_row id="feature_row6" type="center" %}
