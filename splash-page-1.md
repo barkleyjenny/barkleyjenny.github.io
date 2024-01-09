@@ -34,14 +34,14 @@ feature_row2:
     # btn_label: "Read More"
     # btn_class: "btn--primary"
     # url: /services/
-feature_row3:
+feature_row3: 
   - image_path: 'assets/images/great-stories.svg'
     alt: ''
     title: "Create products that tell a story"
-    excerpt: 
-      - 'Research products and industries to find the difference-makers'
-      - 'Develop products that highlight that difference, on time and under budget'
-      - 'Build transparency programs to give marketing teams everything they need to tell great stories'
+    excerpt: |
+      - Research products and industries to find the difference-makers
+      - Develop products that highlight that difference, on time and under budget
+      - Build transparency programs to give marketing teams everything they need to tell great stories
     # url: /services/
     # btn_label: "Read More"
     # btn_class: "btn--primary"
@@ -49,7 +49,9 @@ feature_row4:
   - image_path: 'assets/images/sourcing-network.svg'
     alt: ''   
     title: 'Develop excellent partnerships'
-    excerpt: 'Use data-driven storytelling to negotiate the pricing, terms, and service levels that will make consumers think differently /n Source partners who value a brand’s core mission and will embrace change'
+    excerpt: |
+      - Use data-driven storytelling to negotiate the pricing, terms, and service levels that will make consumers think differently 
+      - Source partners who value a brand’s core mission and will embrace change
     # url: /services/
     # btn_label: "Read More"
     # btn_class: "btn--primary"
