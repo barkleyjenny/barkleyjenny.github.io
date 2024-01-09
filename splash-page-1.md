@@ -27,9 +27,11 @@ feature_row2:
   - image_path: 'assets/images/speed.svg'
     alt: ''
     title: "Move Quickly"
-    excerpt: 
-      - "Identify the metric that matters most"
-      - "Automate reporting to create real-time dashboards that focus teams and drive progress"
+    excerpt:|
+      <ul>
+        <li>Identify the metric that matters most</li>
+        <li>Automate reporting to create real-time dashboards that focus teams and drive progress</li>
+      </ul>
 
     # btn_label: "Read More"
     # btn_class: "btn--primary"
