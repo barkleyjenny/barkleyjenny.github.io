@@ -59,9 +59,10 @@ feature_row6:
   - image_path: 'assets/images/value-growth.svg'
     alt: ''   
     title: 'Build lasting value'
-    excerpt: 'Build loyalty through excellent product quality
-Reduce costs of goods sold through strategic sourcing and deeper partnerships
-Create demand forecasts and supply plans that expedite the cash cycle and minimize obsolescence and chargebacks
+    excerpt: |
+    - Build loyalty through excellent product quality
+    - Reduce costs of goods sold through strategic sourcing and deeper partnerships
+    - Create demand forecasts and supply plans that expedite the cash cycle and minimize obsolescence and chargebacks
 '
     
 ---
