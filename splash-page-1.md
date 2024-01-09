@@ -16,7 +16,7 @@ excerpt: ''
 feature_row1:
   - image_path: 'assets/images/barkley-headshot.jpg'
     alt: ''
-    title: "Hello, I’m Barkley "
+    title: "Hello, I’m Barkley"
     excerpt: "I am an operations consultant and I help leaders build businesses that change how people consume. I have launched 100+ products for mission-driven brands at every scale–from pre-market startups to large multinationals. A lesson I hold above all else: difference matters. To be unique, businesses need to operate differently, to deliver real economic value, and they need to tell the story."
 
     # btn_label: "Read More"
@@ -28,8 +28,8 @@ feature_row2:
     alt: ''
     title: "Move Quickly"
     excerpt: |
-      - "Identify the metric that matters most"
-      - "Automate reporting to create real-time dashboards that focus teams and drive progress"
+      - Identify the metric that matters most
+      - Automate reporting to create real-time dashboards that focus teams and drive progress
 
     # btn_label: "Read More"
     # btn_class: "btn--primary"
