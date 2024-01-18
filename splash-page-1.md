@@ -22,7 +22,7 @@ feature_row1:
     - Sovled problems at every scale from early startups to multinationals
     - Developed products across categories including food, baby, personal care and supplements
 
-    Difference matters, and the most meaningful points of differentiation start with supply chain and operations."
+    "Difference matters, and the most meaningful points of differentiation start with supply chain and operations."
 
     # btn_label: "Read More"
     # btn_class: "btn--primary"
