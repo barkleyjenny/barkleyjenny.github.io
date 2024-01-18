@@ -20,7 +20,7 @@ feature_row1:
     excerpt: |
     - Launched over 100 products for mission-driven brands
     - Sovled problems at every scale from early startups to multinationals
-    - Developed products across categories including food, baby, personal care and supplements
+    - Developed products across categories including food, baby, personal care and supplements|
 
     "Difference matters, and the most meaningful points of differentiation start with supply chain and operations."
 
