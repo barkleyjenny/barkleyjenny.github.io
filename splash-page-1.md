@@ -72,7 +72,7 @@ feature_row6:
     
 ---
 
-{% include feature_row id="feature_row1" type="right" %}
+{% include feature_row id="feature_row1" type="left" %}
 
 <!-- Apply the marker-title class directly to the title -->
 <h1 class="page__title marker-title">Here's how I can help:</h1>
