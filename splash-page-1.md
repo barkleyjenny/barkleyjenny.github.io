@@ -62,7 +62,7 @@ feature_row4:
     # btn_label: "Read More"
     # btn_class: "btn--primary"
 feature_row6:
-  - image_path: 'assets/images/value-growth.svg'
+  - image_path: 'assets/images/growth_250x250.jpeg'
     alt: ''   
     title: 'Build lasting value'
     excerpt: |
