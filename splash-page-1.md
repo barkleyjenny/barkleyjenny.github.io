@@ -30,6 +30,7 @@ feature_row2:
     excerpt: |
       - Identify the metric that matters most
       - Automate reporting to create real-time dashboards that focus teams and drive progress
+      - Plan, execute, measure, repeat
 
     # btn_label: "Read More"
     # btn_class: "btn--primary"
