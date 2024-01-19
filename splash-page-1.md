@@ -93,5 +93,10 @@ feature_row7:
 
 {% include feature_row id="feature_row6" type="left" %}
 
+<h1 class="page__title marker-title">Let's get started!</h1>
+    url:mailto:barkley@barkleyjenny.com
+    btn_label:"Contact me"
+    btn_class:"btn--primary"
+
 {% include feature_row id="feature_row7" type="center" %}
 
