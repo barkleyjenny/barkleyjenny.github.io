@@ -24,7 +24,7 @@ feature_row1:
 
       Difference matters, and the most meaningful points of differentiation start with the supply chain and operations.
 
-     url: email me > barkley@barkleyjenny.com
+      [email me > barkley@barkleyjenny.com](mailto:barkley@barkleyjenny.com)
 
     # btn_label: "Read More"
     # btn_class: "btn--primary"
