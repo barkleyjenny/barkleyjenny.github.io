@@ -71,13 +71,13 @@ feature_row6:
       - Create demand forecasts and supply plans that expedite the cash cycle and minimize obsolescence and chargebacks
    
 feature_row7:
-  - image_path: ''
+  - image_path:''
     alt:''   
     title:'Let's get started!'
     excerpt:''
     url: mailto:barkley@barkleyjenny.com
-    btn_label: "Contact me"
-    btn_class: "btn--primary"
+    btn_label:'Contact me'
+    btn_class:'btn--primary'
     
 ---
 
