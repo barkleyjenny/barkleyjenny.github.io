@@ -72,9 +72,9 @@ feature_row6:
    
 feature_row7:
   - image_path: ''
-    alt: ''   
-    title: ''
-    excerpt: ''
+    alt:''   
+    title:''
+    excerpt:''
     url: mailto:barkley@barkleyjenny.com
     btn_label: "Contact Me"
     btn_class: "btn--primary"
