@@ -96,12 +96,13 @@ feature_row7:
 
 {% include feature_row id="feature_row6" type="left" %}
 
-<h1 class="page__title marker-title">Let's get started!</h1>
-
-
-{% include feature_row id="feature_row7" type="center" %}
-
-<div class="splash-bottom-panel">
-  <h1 style="font-size: 3em; text-align: center;">Let's get started!</h1>
-  <a href="mailto:myemail" class="btn btn--primary">Contact me</a>
-</div>
+<!-- Apply inline styles to the specific title -->
+  <div class="feature__item--center">
+    <div class="archive__item">
+      <div class="archive__item-teaser">
+        <h2 style="font-family: 'Permanent Marker', sans-serif; font-weight: bold; font-size: 2em;">Let's get started!</h2>
+        <a href="mailto:myemail" class="btn btn--primary center">Contact me</a>
+      </div>
+    </div>
+  </div>
+{% endinclude %}
