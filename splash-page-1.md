@@ -96,11 +96,12 @@ feature_row7:
 
 {% include feature_row id="feature_row6" type="left" %}
 
-<!-- Apply inline styles to the specific title -->
-  <div class="feature__item--center">
+{% include feature_row id="feature_row7" type="center" %}
+  <!-- Apply inline styles to the specific title and button container -->
+  <div class="feature__item--center" style="height: 100%;">
     <div class="archive__item">
       <div class="archive__item-teaser">
-        <h2 style="font-family: 'Permanent Marker', sans-serif; font-weight: bold; font-size: 2em;">Let's get started!</h2>
+        <h2 style="font-family: 'Your Custom Font', sans-serif; font-weight: bold; font-size: 2em;">Let's get started!</h2>
         <a href="mailto:myemail" class="btn btn--primary center">Contact me</a>
       </div>
     </div>
