@@ -72,7 +72,8 @@ feature_row6:
 feature_row7: 
   - image_path: ''
     alt: ''
-    title: ""
+    title: |
+      # Let's get started!
     excerpt: |
       |
       |
