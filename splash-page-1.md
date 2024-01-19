@@ -31,7 +31,7 @@ feature_row1:
     # url: /services/
 
 feature_row2:
-  - image_path: 'assets/images/speed.svg'
+  - image_path: 'assets/images/fast.svg'
     alt: ''
     title: "Move Quickly"
     excerpt: |
@@ -43,7 +43,7 @@ feature_row2:
     # btn_class: "btn--primary"
     # url: /services/
 feature_row3: 
-  - image_path: 'assets/images/great-stories.svg'
+  - image_path: 'assets/images/stories.svg'
     alt: ''
     title: "Create products that tell a story"
     excerpt: |
@@ -54,7 +54,7 @@ feature_row3:
     # btn_label: "Read More"
     # btn_class: "btn--primary"
 feature_row4:
-  - image_path: 'assets/images/sourcing-network.svg'
+  - image_path: 'assets/images/partners.svg'
     alt: ''   
     title: 'Develop excellent partnerships'
     excerpt: |
@@ -64,7 +64,7 @@ feature_row4:
     # btn_label: "Read More"
     # btn_class: "btn--primary"
 feature_row6:
-  - image_path: 'assets/images/growth_250x250.jpeg'
+  - image_path: 'assets/images/growth.svg'
     alt: ''   
     title: 'Build lasting value'
     excerpt: |
