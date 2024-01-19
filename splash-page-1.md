@@ -74,7 +74,7 @@ feature_row7:
   - image_path:''
     alt:''   
     title:"Let's get started!"
-    excerpt:''
+    excerpt:""
     url: mailto:barkley@barkleyjenny.com
     btn_label:'Contact me'
     btn_class:'btn--primary'
