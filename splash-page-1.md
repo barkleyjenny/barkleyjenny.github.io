@@ -70,7 +70,7 @@ feature_row6:
       - Reduce costs of goods sold through strategic sourcing and deeper partnerships
       - Create demand forecasts and supply plans that expedite the cash cycle and minimize obsolescence and chargebacks
 feature_row7: 
-  - image_path: 'assets/images/great-stories.svg'
+  - image_path: ''
     alt: ''
     title: ""
     excerpt: |
