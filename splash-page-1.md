@@ -69,11 +69,17 @@ feature_row6:
       - Build loyalty through excellent product quality
       - Reduce costs of goods sold through strategic sourcing and deeper partnerships
       - Create demand forecasts and supply plans that expedite the cash cycle and minimize obsolescence and chargebacks
-feature_row7:
-  - image_path:''
-    alt:''   
-    title:"Let's get started!"
-    excerpt:''    
+feature_row7: 
+  - image_path: 'assets/images/great-stories.svg'
+    alt: ''
+    title: "Create products that tell a story"
+    excerpt: |
+      - Research products and industries to find the difference-makers
+      - Develop products that highlight that difference, on time and under budget
+      - Build transparency programs to give marketing teams everything they need to tell great stories
+    url: /services/
+    btn_label: "Read More"
+    btn_class: "btn--primary"   
 ---
 
 {% include feature_row id="feature_row1" type="left" %}
