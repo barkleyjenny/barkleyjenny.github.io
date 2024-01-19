@@ -96,7 +96,6 @@ feature_row7:
 
 {% include feature_row id="feature_row6" type="left" %}
 
-{% include feature_row id="feature_row7" type="center" %}
   <!-- Apply inline styles to the specific title and button container -->
   <div class="feature__item--center" style="height: 100%;">
     <div class="archive__item">
@@ -106,4 +105,3 @@ feature_row7:
       </div>
     </div>
   </div>
-{% endinclude %}
