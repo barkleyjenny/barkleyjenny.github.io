@@ -23,8 +23,8 @@ feature_row1:
       - Developed products across categories including food, baby, personal care, and supplements
 
       Difference matters, and the most meaningful points of differentiation start with the supply chain and operations.
-
-      [email me &rarr --> barkley@barkleyjenny.com](mailto:barkley@barkleyjenny.com)
+      Right arrow (→): &#8594; or &rarr;
+      [email me →): &#8594 barkley@barkleyjenny.com](mailto:barkley@barkleyjenny.com)
 
     # btn_label: "Read More"
     # btn_class: "btn--primary"
