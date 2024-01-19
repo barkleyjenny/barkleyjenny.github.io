@@ -1,22 +1,33 @@
 ---
 layout: single
-title: "About me"
-permalink: /about/
-excerpt: "this is where i tell you who i am"
-last_modified_at: 2023-12-07
-author_profile: true
+title: ""
+permalink: /contact/
+excerpt: ""
+last_modified_at:
+author_profile: false
 ---
+<div class="contact-section">
+  <h2>Contact Me</h2>
 
-I am a cpg operator with a bent on building connection through the foods we eat and the products we use. Based in the Rocky Mountains, I travel 90% of the time because I love to solve problems in person.
+  <div class="contact-item">
+    <a href="mailto:your@email.com" target="_blank" rel="noopener noreferrer">
+      <img src="email-icon.png" alt="Email Icon">
+      Email
+    </a>
+  </div>
 
-**I work with brands in the 3 following ways:**
+  <div class="contact-item">
+    <a href="https://www.linkedin.com/in/yourlinkedin" target="_blank" rel="noopener noreferrer">
+      <img src="linkedin-icon.png" alt="LinkedIn Icon">
+      LinkedIn
+    </a>
+  </div>
 
-1. Develop partnerships with suppliers, manufacturers and logistics providers whose interests align with a brand's goal to transform how we produce and consume
-
-2. Research ingredients, markets and technologies to develop businesses that drive that transformation
-
-3. Lead transparency initiatives that tell a story that connects the community a brand seres with the impact a brand makes
-
-
-# Let's build something great!
+  <div class="contact-item">
+    <a href="https://github.com/yourgithub" target="_blank" rel="noopener noreferrer">
+      <img src="github-icon.png" alt="GitHub Icon">
+      GitHub
+    </a>
+  </div>
+</div>
 
