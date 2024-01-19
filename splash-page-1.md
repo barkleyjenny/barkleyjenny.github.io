@@ -74,11 +74,9 @@ feature_row7:
     alt: ''
     title: "Create products that tell a story"
     excerpt: |
-      - Research products and industries to find the difference-makers
-      - Develop products that highlight that difference, on time and under budget
-      - Build transparency programs to give marketing teams everything they need to tell great stories
-    url: /services/
-    btn_label: "Read More"
+ 
+    url: mailto:barkley@barkleyjenny.com
+    btn_label: "Contact me"
     btn_class: "btn--primary"   
 ---
 
