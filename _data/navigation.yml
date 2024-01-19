@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "contact"
-    url: /contact/
+    url: mailto:barkley@barkleyjenny.com
   #- title: "services"
   #  url: /services/
   - title: "blog"
