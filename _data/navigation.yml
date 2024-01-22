@@ -5,7 +5,7 @@ main:
   #- title: "services"
   #  url: /services/
   - title: "the blog"
-    url: _pages/blog/
+    url: /the-blog/
   #  description: "this is where I talk about things"
   # - title: "Sample Collections"
   #   url: /collection-archive/
