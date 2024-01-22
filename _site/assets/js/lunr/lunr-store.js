@@ -3,7 +3,7 @@ var store = [,{
     "excerpt":"   Contact Me                        Email                               LinkedIn                               GitHub           ","url": "/contact/"
   },{
     "title": "blog",
-    "excerpt":" ","url": "/blog/"
+    "excerpt":" ","url": "/the-blog/"
   },{
     "title": "",
     "excerpt":"   Contact Me                        Email                               LinkedIn                               GitHub           ","url": "/contact/"
