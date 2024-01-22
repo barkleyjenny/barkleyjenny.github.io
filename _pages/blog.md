@@ -7,8 +7,4 @@ last_modified_at: 2024-01-22
 author_profile: true
 ---
 
-{% for post in site.posts %}
-  {% unless post.hidden %}
-    {% include archive-single.html %}
-  {% endunless %}
-{% endfor %}
+{% include archive-single.html %}
