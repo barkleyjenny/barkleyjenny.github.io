@@ -1,7 +1,7 @@
 ---
 layout: single
 title: ""
-permalink: /contact/
+permalink: /about/
 excerpt: ""
 last_modified_at:
 author_profile: false
