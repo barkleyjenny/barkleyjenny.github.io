@@ -1,9 +1,9 @@
 ---
-layout: collection
-title: "blog"
+layout: archive
+title: "The Blog"
 permalink: /the-blog/
 excerpt: ""
-last_modified_at: 2023-12-21
+last_modified_at: 2024-01-22
 author_profile: true
 ---
 
