@@ -4,8 +4,8 @@ main:
  #   url: mailto:barkley@barkleyjenny.com
   #- title: "services"
   #  url: /services/
-  - title: "blog"
-    url: /blog/
+  - title: "the blog"
+    url: _pages/blog/
   #  description: "this is where I talk about things"
   # - title: "Sample Collections"
   #   url: /collection-archive/
