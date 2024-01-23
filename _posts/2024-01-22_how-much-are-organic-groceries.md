@@ -2,9 +2,9 @@
 title: "How much are organic groceries?"
 date: 2024-01-22
 categories:
-	- retail
+	- data science
 tags:
-- retail
+	- retail
 ---
 
 I spend too much time in the supermarket comparing prices between conventional items and more premium options. I do this because pricing is the start of a story that tells us what makes a product different. Organic has always commanded a premium. Organic growers prioritize long term soil health over short term output. They operate differently, and shoppers recognize the value of that difference by paying more at the checkout stand. What has always fascinated me: what makes shoppers value some organic items over others?
