@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "How much are organic groceries?"
+title: "How much more expensive are organic groceries?"
 header: 
   teaser:
 categories:
