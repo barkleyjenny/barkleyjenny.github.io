@@ -1,7 +1,8 @@
 ---
+layout: single
 title:  "Welcome to Jekyll!"
 header:
-  teaser: "/assets/images/500x300.png"
+  teaser: "/assets/images/2023_vietnam2.jpg"
 categories: 
   - Jekyll
 tags:
