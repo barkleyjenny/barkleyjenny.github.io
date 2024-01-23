@@ -4,7 +4,7 @@ title: "The Blog"
 permalink: /the-blog/
 excerpt: ""
 last_modified_at: 2024-01-22
-author_profile: true
+author_profile: false
 ---
 
 {% include archive-single.html %}

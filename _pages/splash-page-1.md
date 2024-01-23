@@ -102,7 +102,7 @@ feature_row7:
   <div class="feature__item--center" style="height: 100%;">
     <div class="archive__item">
       <div class="archive__item-teaser" style="border-bottom: none;">
-        <h2 style="font-family: 'Permanent Marker', sans-serif; font-weight: bold; font-size: 3em;">Let's get started!</h2>
+        <h1 style="font-family: 'Permanent Marker', sans-serif; font-weight: bold; font-size: 3em;">Let's get started!</h1>
         <a href="mailto:myemail" class="btn btn--primary center">Contact me</a>
       </div>
     </div>
