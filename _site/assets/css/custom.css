@@ -4,3 +4,8 @@
 }
 
 $link-color: black;
+
+.page-content h2 {
+  font-family: 'Permanent Marker', cursive;
+  /* Add other styling properties if needed */
+}
