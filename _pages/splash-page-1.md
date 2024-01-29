@@ -1,8 +1,10 @@
 ---
-title: "The next generation of consumer products will be:
-  1). Unique, 
-  2). Affordable, 
-  3). Tell stories that drive change."
+title: |
+  The next generation of consumer products will be:  
+  &nbsp;&nbsp;&nbsp;&nbsp; 1). Unique  
+  &nbsp;&nbsp;&nbsp;&nbsp;2). Affordable  
+  &nbsp;&nbsp;&nbsp;&nbsp;3.Tell stories that drive change  
+
 layout: splash
 permalink: /
 date: ''
@@ -105,7 +107,7 @@ feature_row7:
   <div class="feature__item--center" style="height: 100%;">
     <div class="archive__item">
       <div class="archive__item-teaser" style="border-bottom: none;">
-        <h1 style="font-family: 'Montserrat', sans-serif; font-weight: bold; font-size: 3em;">Let's get started!</h1>
+        <h1 style="font-family: 'Permanent Marker', sans-serif; font-weight: bold; font-size: 3em;">Let's get started!</h1>
         <a href="mailto:myemail" class="btn btn--primary center">Contact me</a>
       </div>
     </div>
