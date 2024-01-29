@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "How much more expensive are organic groceries?"
+title: ""
 header: 
   teaser: /assets/images/2024-01-22-how much are organic groceries/organic-pricing-teaser-veg.jpg
 categories:
@@ -10,6 +10,9 @@ tags:
 date: 2024-01-22
 thumbnail: /assets/images/2024-01-22-how much are organic groceries/organic-pricing-medians.png
 ---
+# How much more expensive are organic groceries?
+<img src="/assets/images/2024-01-22-how much are organic groceries/organic-pricing-teaser-veg.jpg" alt="">
+
 I spend too much time in the supermarket comparing prices between conventional items and more premium options. I do this because pricing is the start of a story that tells us what makes a product different. Organic has always commanded a premium. Organic growers prioritize long term soil health over short term output. They operate differently, and shoppers recognize the value of that difference by paying more at the checkout stand. What has always fascinated me: what makes shoppers value some organic items over others?
 
 ## The approach: 
