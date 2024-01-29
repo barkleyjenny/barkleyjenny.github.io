@@ -10,7 +10,7 @@ tags:
 date: 2024-01-22
 thumbnail: /assets/images/2024-01-22-how much are organic groceries/organic-pricing-medians.png
 ---
-I used python to compare prices between oragnic and conveniotnal grocery items. 
+I used python to compare prices between organic and conventional grocery items. 
 - Prices are a great measure of what makes a product different. 
 - Organic products have always commanded a premium. 
 - That premium measures how shoppers view the organic difference.
