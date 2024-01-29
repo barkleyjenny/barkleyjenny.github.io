@@ -2,7 +2,7 @@
 layout: single
 title: "How much more expensive are organic groceries?"
 header: 
-  teaser: /assets/images/2024-01-22-how much are organic groceries/organic-pricing-teaser-apples.jpg
+  teaser: /assets/images/2024-01-22-how much are organic groceries/organic-pricing-teaser-veg.jpg
 categories:
   - data science
 tags:
