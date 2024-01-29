@@ -1,10 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-01-29T09:46:04-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Goose Creek Consulting</title><subtitle></subtitle><author><name>Barkley Jenny</name></author><entry><title type="html"></title><link href="http://localhost:4000/data%20science/how-much-are-organic-groceries/" rel="alternate" type="text/html" title="" /><published>2024-01-22T00:00:00-07:00</published><updated>2024-01-22T00:00:00-07:00</updated><id>http://localhost:4000/data%20science/how-much-are-organic-groceries</id><content type="html" xml:base="http://localhost:4000/data%20science/how-much-are-organic-groceries/"><![CDATA[<h1 id="how-much-more-expensive-are-organic-groceries">How much more expensive are organic groceries?</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-01-29T10:23:54-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Goose Creek Consulting</title><subtitle></subtitle><author><name>Barkley Jenny</name></author><entry><title type="html">How do consumers value organic groceries?</title><link href="http://localhost:4000/data%20science/how-much-are-organic-groceries/" rel="alternate" type="text/html" title="How do consumers value organic groceries?" /><published>2024-01-22T00:00:00-07:00</published><updated>2024-01-22T00:00:00-07:00</updated><id>http://localhost:4000/data%20science/how-much-are-organic-groceries</id><content type="html" xml:base="http://localhost:4000/data%20science/how-much-are-organic-groceries/"><![CDATA[<p>I used python to compare prices between oragnic and conveniotnal grocery items.</p>
+<ul>
+  <li>Prices are a great measure of what makes a product different.</li>
+  <li>Organic products have always commanded a premium.</li>
+  <li>That premium measures how shoppers view the organic difference.</li>
+</ul>
+
 <p><img src="/assets/images/2024-01-22-how much are organic groceries/organic-pricing-teaser-veg.jpg" alt="" /></p>
 
-<p>I spend too much time in the supermarket comparing prices between conventional items and more premium options. I do this because pricing is the start of a story that tells us what makes a product different. Organic has always commanded a premium. Organic growers prioritize long term soil health over short term output. They operate differently, and shoppers recognize the value of that difference by paying more at the checkout stand. What has always fascinated me: what makes shoppers value some organic items over others?</p>
-
 <h2 id="the-approach">The approach:</h2>
-<p>While my boots on the ground approach was an absolute joy, it lacked the breadth and depth needed for this problem. Approaching this instead as a data science question, I built a program in python that queried Kroger’s Open API. I pulled product data for 11k items listed in a single Cincinnati, OH, location. Within that dataset, I was able to identify 206 like-for-like, lowest cost organic and conventional product pairs. Using these pairs, I calculated a percent premium to indicate how consumers value each organic item versus its conventional counterpart.</p>
+<p>I spend too much time in the supermarket comparing prices between conventional items and more premium options. It is an absolute joy, but it lacks breadth and depth. Approaching this instead as a data science question, I built a program in python that queried Kroger’s Open API. I pulled product data for 11k items listed in a single Cincinnati, OH, location. Within that dataset, I was able to identify 206 like-for-like, lowest cost organic and conventional product pairs. Using these pairs, I calculated a percent premium to indicate how consumers value each organic item versus its conventional counterpart.</p>
 
 <h2 id="the-median-organic-item-sold-for-44-more-than-conventional">The median organic item sold for 44% more than conventional.</h2>
 <p>The produce aisle as a whole drove the median in this dataset. It hosted the largest variety of organic items with the majority of premiums falling between 35-55%. Meanwhile median premiums for snacks (63%), frozen goods (78%) and baking goods (118%) were a huge surprise.</p>
@@ -18,17 +22,23 @@
 
 <p><img src="/assets/images/2024-01-22-how much are organic groceries/organic-pricing-medians.png" alt="" /></p>
 
-<h2 id="but-what-would-compel-a-shopper-to-pay-2-3x-the-price-of-conventional">But what would compel a shopper to pay 2-3x the price of conventional?</h2>
-<p>My best guess: premiums are compounding. The more premium attributes a product includes (ie the more complex it is) its price point will be exponentially higher.</p>
+<h2 id="so-what-would-compel-a-shopper-to-pay-2-3x-the-price-of-conventional">So what would compel a shopper to pay 2-3x the price of conventional?</h2>
+<p><strong>My best guess:</strong> premiums are compounding. The more premium attributes a product includes (ie the more complex it is) its price point will be exponentially higher.</p>
 
-<p>Frozen pizza is a great example. The product itself is premium because of its convenience. On top of that, it includes only organic ingredients. Most of those ingredients (like cheese and tomato sauce) require organic sub-ingredients and inputs. Multiply all of these attributes together, and we get a frozen pizza selling for 200% more than its lowest cost conventional counterpart. And contrary to produce retailing, frozen pizza’s are large, square and act as a giant billboard inside the freezer cabinet. The story on that billboard: organic vine-ripened tomatoes and dairy cows that spend more time in the pasture makes for something exceptional.</p>
+<p><strong>Frozen pizza</strong> is a great example.</p>
+
+<p>The product itself is premium because of its convenience. On top of that, it includes only organic ingredients. Most of those ingredients (like cheese and tomato sauce) require organic sub-ingredients and inputs. Multiply all of these attributes together, and we get a frozen pizza selling for 200% more than its lowest cost conventional counterpart. And contrary to produce retailing, frozen pizza’s are large, square and act as a giant billboard inside the freezer cabinet. The story on that billboard: organic vine-ripened tomatoes and dairy cows that spend more time in the pasture makes for something exceptional.</p>
 
 <p><img src="/assets/images/2024-01-22-how much are organic groceries/organic-pricing-complex.png" alt="" /></p>
 
 <h2 id="biggest-opportunity-for-value-creation-premium-staple-goods">Biggest opportunity for value creation: premium staple goods.</h2>
-<p>I find the products with premiums ranging from 50-100% most compelling. Unlike the ultra-premium products, these represent a class of normal staple goods–the goods shoppers use and consume on a weekly basis. Volume multiplied by relatively high premiums makes this group the biggest value drivers in a standard grocery list.</p>
+<p><strong>I find the products with premiums ranging from 50-100% most compelling.</strong></p>
 
-<p>Loyalty defines these products. If a brand can tell the right story, shoppers will see the value and stick with them. I buy a certain brand of organic milk because I am a nerd. I care too much about grass and fat.  But I also buy that organic milk because the people I love tell me it tastes better. The brand gives me a short story right on the carton about how they do things differently to make sure their milk tastes better. There is no going back.</p>
+<p>Unlike the ultra-premium products, these represent a class of normal staple goods–the goods shoppers use and consume on a weekly basis. Volume multiplied by relatively high premiums makes this group the biggest value drivers in a standard grocery list.</p>
+
+<p><strong>Loyalty defines these products.</strong></p>
+
+<p>If a brand can tell the right story, shoppers will see the value and stick with them. I buy a certain brand of organic milk because I am a nerd. I care too much about grass and fat.  But I also buy that organic milk because the people I love tell me it tastes better. The brand gives me a short story right on the carton about how they do things differently to make sure their milk tastes better. There is no going back.</p>
 
 <p><img src="/assets/images/2024-01-22-how much are organic groceries/organic-pricing-staple-goods.png" alt="" /></p>
 
@@ -54,4 +64,4 @@
 
 <p><strong>A limitation:</strong> to generate common names for each item, I used string matching with regex. In future iterations of this project, a natural language processor paired with a machine learning model could:
  Find more matches and increase the sample size 
- Analyze product titles to extrapolate premiums not just from organic claims but other claims as well such as non-gmo, regenerative and combinations thereof.</p>]]></content><author><name>Barkley Jenny</name></author><category term="data science" /><category term="retail" /><summary type="html"><![CDATA[How much more expensive are organic groceries?]]></summary></entry></feed>
+ Analyze product titles to extrapolate premiums not just from organic claims but other claims as well such as non-gmo, regenerative and combinations thereof.</p>]]></content><author><name>Barkley Jenny</name></author><category term="data science" /><category term="retail" /><summary type="html"><![CDATA[I used python to compare prices between oragnic and conveniotnal grocery items. Prices are a great measure of what makes a product different. Organic products have always commanded a premium. That premium measures how shoppers view the organic difference.]]></summary></entry></feed>
