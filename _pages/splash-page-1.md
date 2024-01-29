@@ -1,5 +1,8 @@
 ---
-title: "The next generation of consumer products will be unique, affordable, and they will tell stories that drive change."
+title: "The next generation of consumer products will be:
+  1). Unique, 
+  2). Affordable, 
+  3). Tell stories that drive change."
 layout: splash
 permalink: /
 date: ''
