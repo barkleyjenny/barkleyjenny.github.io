@@ -3,7 +3,7 @@ title: |
   The next generation of consumer products will be:  
   &nbsp;&nbsp;&nbsp;&nbsp; 1). Unique  
   &nbsp;&nbsp;&nbsp;&nbsp;2). Affordable  
-  &nbsp;&nbsp;&nbsp;&nbsp;3.Tell stories that drive change  
+  &nbsp;&nbsp;&nbsp;&nbsp;3). Tell stories that drive change  
 
 layout: splash
 permalink: /
