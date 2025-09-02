@@ -19,7 +19,7 @@ header:
 excerpt: ''
 
 feature_row1:
-  - image_path: 'assets/images/barkley-headshot.jpg'
+  - image_path: 'assets/images/2025_portrait.jpg'
     alt: ''
     title: "Hello, I’m Barkley"
     excerpt: |
